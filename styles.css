@@ -1,0 +1,211 @@
+body{
+    margin: 0px;
+    padding: 1rem;
+    background-color: #1F2937;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.nav{
+    
+    color: white;
+   
+    
+    
+}
+.logo{
+    padding-left: 6rem;
+    font-weight: bold;
+    font-size: x-large;
+}
+.header-right{
+    display: inline-block;
+    float: right;
+    padding-right: 6rem;
+    padding-top: 0.5rem;
+}
+
+a{ 
+    text-decoration: none;
+    color: white;
+    padding :1rem;
+}
+
+.banner{
+    display: inline-block;
+    padding-left: 6rem;
+    padding-top: 4rem;
+    float: left;
+    margin-right: 2rem;
+    
+    
+}
+
+p{
+    word-wrap: break-word;
+    font-size: large;
+    width: 400px;
+    margin-top: 5px;
+    color: white;
+}
+
+button{
+    background-color: #3882F6;
+    color: whitesmoke;
+}
+
+.butn{
+    height: 2rem;
+    width: 6rem;
+    border-radius: 8px;
+    border-color: none;
+}
+
+.brand-image{
+    
+    width: 550px;
+    height: 120px;
+    float: right;
+    margin-top: 6rem;
+    margin-right: 8rem;
+    background-color: grey;
+    text-align: center;
+    padding-top: 6rem;
+    color: white;
+}
+
+h1{
+    width: 400px;
+    margin-bottom: 5px;
+    font-size: 3em;
+    font-weight: bold;
+    color: white;
+    
+}
+
+.tiles{
+ 
+    display: inline-block;
+    background: white;
+    width: 100%;
+    height: 500px;
+    margin-top: 6rem;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 1.5rem;
+    
+}
+
+.blocks{
+    display: inline-block;
+    width: 20%;
+    padding: 0px;
+
+
+}
+
+h3{
+    display: block;
+    width: 120px;
+    height: 150px;
+    border-radius: .5em;
+    border: 5px solid #3882F6 ;
+    margin-left: 1.5em;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 0px;
+    
+    
+}
+
+span{
+    display: block;
+    margin-top: 0px;
+    padding-top:  0px;
+    padding-left: 2em;
+    padding-right: 1.5em;
+    word-wrap: break-word;
+    font-size: 20px;
+   width: fit-content;
+}
+
+.third-row{
+    margin-top: 5%;
+    background-color: #E5E7EB;
+    padding-top: 5%;
+    padding-left: 15%;
+    padding-bottom: 5%;
+    padding-right: 15%;
+    font-weight: lighter;
+    text-align: left;
+
+}
+
+blockquote{
+    font-style: italic;
+}
+h4{
+    text-align: right;
+    margin-top: 0px;
+    font-style: normal;
+    padding-right: 1em;
+
+}
+
+.fourth-row{
+    background-color: white;
+    padding-top: 50px;
+    text-align: left;
+    padding-bottom: 50px;
+    padding-right: 10%;
+    width: 100%;
+    
+}
+
+.signup{
+    display: inline-block;
+    background-color: #3882F6;
+    font-size: large;
+    margin-left: 18%;
+    padding-right: 2em;
+    padding-left: 5%;
+    padding-top: 1.5em;
+    padding-bottom: 0px;
+    border-radius: 5px;
+    color: white;
+    width: 700px;
+    height:80px;
+}
+
+.btn{
+    display: inline-block;
+    border: 2px solid white;
+    width: 7rem;
+    border-radius: 5px;
+    
+    float: right;
+    margin-right: 2em;
+    margin-left: 2em;
+    margin-top: 1em;
+    margin-bottom: 2em;
+
+}
+
+.quote{
+    font-size: small;
+    margin-top: 5px;
+    color: #F9FAF8;
+    font-style: normal;
+    font-weight: lighter;
+}
+
+footer{
+    color: white;
+    font-weight: lighter;
+    font-size: 15px;
+    margin-top: 2em;
+    padding-bottom: 2em;
+}
+
